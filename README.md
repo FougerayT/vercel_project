@@ -43,4 +43,4 @@ Workflow :
 3)	Création d’un pull-request de cette branche faire la branche principale (master)
 4)	Récupération du projet principal 
 
-22. 
+22. Cela signifie que notre logiciel va utiliser les instructions d’un framework par exemple pour traduire les requêtes HTTP et constituer le front de l’application. Cela permet d’éviter de passer par une API
